@@ -1,3 +1,14 @@
+/*
+Write a program to convert Fahrenheit to Celsius.
+
+
+Sample I/O:
+
+Enter a temperature in Fahrenheit:
+99.5
+99.5 degree Fahrenheit is equal to 37.5 degree Celsius
+*/
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
