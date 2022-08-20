@@ -1,3 +1,6 @@
+"""I have learned to code this game with the help of youtube
+huge shout-out to ProgrammingKnowledge and dsa in c++ by Michael T. Goodrich"""
+
 #include <iostream>
 using namespace std; // making std:: accessible
 
